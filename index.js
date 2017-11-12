@@ -8,4 +8,4 @@ You should NOT try to redefine any of the above variables.
 */
 
 // Write your code below this line!
-const ageIsValid = `${curentAge} = integer`
+const ageIsValid = Number.isInteger(currentAge)
