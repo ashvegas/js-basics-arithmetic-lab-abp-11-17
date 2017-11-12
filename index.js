@@ -1,4 +1,4 @@
-const newID = oldID+1000000;
+const newID = oldID+1000000000;
 /*
 Variables defined in the test suite:
 - oldID
